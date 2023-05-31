@@ -1,4 +1,5 @@
-## This repository is deprecated. Please go to https://gitlab.engr.illinois.edu/gemillins/POLARIS_GEM_e2 for latest developement.
+## This repository is my personal fork. Please go to https://gitlab.engr.illinois.edu/gemillins/POLARIS_GEM_e2 for the official repository.
+
 
 # Polaris GEM e2 Simulator
 
@@ -41,7 +42,7 @@ For example,
 ```bash
 $ mkdir -p ~/gem_ws/src
 $ cd ~/gem_ws/src
-$ git clone https://gitlab.engr.illinois.edu/gemillins/POLARIS_GEM_e2.git
+$ git clone https://github.com/hc825b/POLARIS_GEM_e2.git
 ```
 
 Then we compile the whole workspace use `catkin_make`
